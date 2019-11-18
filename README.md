@@ -2,8 +2,12 @@
 
 Material do Módulo de Machine Learning I - Especialização em Ciência de Dados
 
+https://docs.google.com/document/d/1Xp9-U-ec9Mym1nBdfNXSe_ZhZM-f1V0tVBNjANJsXhk/edit?usp=sharing
 
-
-## Links e Referências
+## Bases de Dados
 
 * https://twitter.com/basedosdados
+
+## Referências
+
+
