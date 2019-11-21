@@ -1,17 +1,17 @@
 # Especialização Unifacisa - 2019
 
-Material do Módulo de Machine Learning I - Especialização em Ciência de Dados
+## Material do Módulo de Machine Learning I - Especialização em Ciência de Dados
 
 Plano de aula disponível em: https://docs.google.com/document/d/1Xp9-U-ec9Mym1nBdfNXSe_ZhZM-f1V0tVBNjANJsXhk/edit?usp=sharing
 
-Bases de Dados
+## Bases de Dados
 
 [1] https://twitter.com/basedosdados
 [2] 50 best public datasets - https://medium.com/towards-artificial-intelligence/the-50-best-public-datasets-for-machine-learning-d80e9f030279
 [3] UCI ML Repository - http://archive.ics.uci.edu/ml/index.php
 
 
-Referências
+## Referências
 
 [1] Python Data Science Handbook (Jake Vander Plas, 2016) O’Reilly - 
 [2] Python Data Science Handbook Notebooks - https://bit.ly/2KDSs3Y
@@ -22,7 +22,7 @@ Referências
 [7] Precision and Recall - https://en.wikipedia.org/wiki/Precision_and_recall
 
 
-Links Legais
+## Links Legais
 
 [1] Seeing Theory - https://seeing-theory.brown.edu/
 [2] Fast.ai - https://www.fast.ai/2018/09/26/ml-launch/
