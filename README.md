@@ -29,6 +29,8 @@ Plano de aula disponível em: https://docs.google.com/document/d/1Xp9-U-ec9Mym1n
 
 [7] Precision and Recall - https://en.wikipedia.org/wiki/Precision_and_recall
 
+[8] Decision Tree - https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html
+
 
 ## Links Legais
 
@@ -50,4 +52,4 @@ Plano de aula disponível em: https://docs.google.com/document/d/1Xp9-U-ec9Mym1n
 
 [9] Regressão Logística Passo a Passo - https://towardsdatascience.com/building-a-logistic-regression-in-python-step-by-step-becd4d56c9c8
 
-[10] Decision Tree - https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html
+[10] Understanding DTs once and for all - https://towardsdatascience.com/understanding-decision-trees-once-and-for-all-2d891b1be579
