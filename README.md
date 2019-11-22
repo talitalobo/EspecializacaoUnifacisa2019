@@ -12,6 +12,8 @@ Plano de aula disponível em: https://docs.google.com/document/d/1Xp9-U-ec9Mym1n
 
 [3] UCI ML Repository - http://archive.ics.uci.edu/ml/index.php
 
+[4] ML Data - https://www.mldata.io/
+
 
 ## Referências
 
@@ -30,6 +32,8 @@ Plano de aula disponível em: https://docs.google.com/document/d/1Xp9-U-ec9Mym1n
 [7] Precision and Recall - https://en.wikipedia.org/wiki/Precision_and_recall
 
 [8] Decision Tree - https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html
+
+[9] Árvores - https://github.com/jasjung/Machine_Learning/tree/master/*Machine_Learning/Trees
 
 [9] Aprendizagem por Reforço - https://www.maxwell.vrac.puc-rio.br/19637/19637_4.PDF
 
@@ -54,3 +58,9 @@ Plano de aula disponível em: https://docs.google.com/document/d/1Xp9-U-ec9Mym1n
 [9] Regressão Logística Passo a Passo - https://towardsdatascience.com/building-a-logistic-regression-in-python-step-by-step-becd4d56c9c8
 
 [10] Understanding DTs once and for all - https://towardsdatascience.com/understanding-decision-trees-once-and-for-all-2d891b1be579
+
+[11] Random Forest in Python - https://towardsdatascience.com/random-forest-in-python-24d0893d51c0
+
+[12] Breast Cancer Data - https://www.mldata.io/dataset-details/breast_cancer/#customize_download
+
+
