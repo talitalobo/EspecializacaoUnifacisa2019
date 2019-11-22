@@ -48,3 +48,6 @@ Plano de aula disponível em: https://docs.google.com/document/d/1Xp9-U-ec9Mym1n
 
 [8] Coeficiente de Correlação de Matthew - https://lettier.github.io/posts/2016-08-05-matthews-correlation-coefficient.html
 
+[9] Regressão Logística Passo a Passo - https://towardsdatascience.com/building-a-logistic-regression-in-python-step-by-step-becd4d56c9c8
+
+[10] Decision Tree - https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html
