@@ -31,6 +31,7 @@ Plano de aula disponível em: https://docs.google.com/document/d/1Xp9-U-ec9Mym1n
 
 [8] Decision Tree - https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html
 
+[9] Aprendizagem por Reforço - https://www.maxwell.vrac.puc-rio.br/19637/19637_4.PDF
 
 ## Links Legais
 
