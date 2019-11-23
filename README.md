@@ -37,6 +37,8 @@ Plano de aula disponível em: https://docs.google.com/document/d/1Xp9-U-ec9Mym1n
 
 [9] Aprendizagem por Reforço - https://www.maxwell.vrac.puc-rio.br/19637/19637_4.PDF
 
+[10] Oversampling - https://imbalanced-learn.readthedocs.io/en/stable/over_sampling.html
+
 ## Links Legais
 
 [1] Seeing Theory - https://seeing-theory.brown.edu/
