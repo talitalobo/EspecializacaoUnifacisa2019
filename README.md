@@ -53,7 +53,6 @@ Plano de aula disponível em: https://docs.google.com/document/d/1Xp9-U-ec9Mym1n
 
 [17] Aequitas - https://dssg.github.io/aequitas/
 
-[18] 
 
 ## Links Legais
 
