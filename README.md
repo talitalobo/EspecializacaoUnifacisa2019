@@ -39,6 +39,22 @@ Plano de aula disponível em: https://docs.google.com/document/d/1Xp9-U-ec9Mym1n
 
 [10] Oversampling - https://imbalanced-learn.readthedocs.io/en/stable/over_sampling.html
 
+[11] When Algorithms Discriminate? - https://www.nytimes.com/2015/07/10/upshot/when-algorithms-discriminate.html
+
+[12] Clustering - https://scikit-learn.org/stable/modules/clustering.html
+
+[13] Silhouette Score - https://scikit-learn.org/stable/modules/generated/sklearn.metrics.silhouette_score.html
+
+[14] K-Means e o Método do Cotovelo - https://medium.com/pizzadedados/kmeans-e-metodo-do-cotovelo-94ded9fdf3a9
+
+[15] Ciência de Dados 1, por Nazareno Andrade - https://github.com/nazareno/ciencia-de-dados-1
+
+[16] Evaluating ML Models Fairness and Bias - https://towardsdatascience.com/evaluating-machine-learning-models-fairness-and-bias-4ec82512f7c3
+
+[17] Aequitas - https://dssg.github.io/aequitas/
+
+[18] 
+
 ## Links Legais
 
 [1] Seeing Theory - https://seeing-theory.brown.edu/
@@ -65,4 +81,8 @@ Plano de aula disponível em: https://docs.google.com/document/d/1Xp9-U-ec9Mym1n
 
 [12] Breast Cancer Data - https://www.mldata.io/dataset-details/breast_cancer/#customize_download
 
+[13] Teachable Machine - https://teachablemachine.withgoogle.com/
 
+[14] MLCC Fairness - https://developers.google.com/machine-learning/crash-course/fairness/types-of-bias
+
+[15] Understanding ROC and AUC curves - https://towardsdatascience.com/understanding-the-roc-and-auc-curves-a05b68550b69
